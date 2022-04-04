@@ -20,7 +20,7 @@ Para iniciar o **Projeto** utilize os comandos:
 
 ```bash
 yarn install
-yarn serve
+yarn start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080/`.
