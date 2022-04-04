@@ -27,8 +27,4 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 <br>
 
-## 💻 Partes que podiam ser melhoradas no Projeto :
- - Cadastro de usuário
- - Gerar um QR code com cada url gerada
-
 Feito por [Walisson Souza](https://github.com/walisson27)
