@@ -33,4 +33,4 @@ yarn install
 yarn start
 ```
 
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080/`.
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
