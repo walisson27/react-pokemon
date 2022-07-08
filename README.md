@@ -1,9 +1,9 @@
 <h1 align="center">
-    Challenge Pokémon
+     Pokémon
 </h1>
 
 <h4 align="center">
-  🚀 Challenge Desenvolvido com Reactjs
+  🚀 Desenvolvido com Reactjs
 </h4>
 
 <p align="center">
