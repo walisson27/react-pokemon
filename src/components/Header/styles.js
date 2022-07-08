@@ -16,6 +16,8 @@ export const Content = styled.div`
   margin: 0 auto;
 
   a {
+    color: white;
+    text-decoration: none;
     img {
       width: 16rem;
       height: 6rem;
