@@ -8,9 +8,16 @@
 
 <p align="center">
   <a href="https://react-pokemon-topaz.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
 
 <br>
 
@@ -24,7 +31,3 @@ yarn start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080/`.
-
-<br>
-
-Feito por [Walisson Souza](https://github.com/walisson27)
