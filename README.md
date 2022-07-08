@@ -17,7 +17,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-
+-ReactJs
+-Styled-components
+-Axios
 
 <br>
 
