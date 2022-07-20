@@ -32,5 +32,4 @@ Para iniciar o **Projeto** utilize os comandos:
 yarn install
 yarn start
 ```
-
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
