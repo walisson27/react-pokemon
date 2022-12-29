@@ -40,6 +40,7 @@ export function PokesList() {
           </Content>
         </>
       )}
+      <a href="https://github.com/walisson27">© Walisson Souza, 2022</a>
     </Container>
   );
 }
