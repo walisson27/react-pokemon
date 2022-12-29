@@ -30,7 +30,6 @@ export function Header() {
         <a href="/">
           <img src={logoSvg} alt="Pokemon Logo" />
         </a>
-        <a href="https://github.com/walisson27">© Walisson Souza, 2022</a>
         {favoriteMode ? (
           <div>
             <button onClick={handleFavorites} aria-label="meus favoritos">
