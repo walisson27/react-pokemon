@@ -19,9 +19,15 @@ export const Container = styled.div`
     width: 90%;
     margin: 0 2rem;
   }
-
+  a {
+    color: black;
+    text-decoration: none;
+    img {
+      width: 16rem;
+      height: 6rem;
+    }
+  }
 `;
-
 export const Content = styled.div`
   margin-top: 3rem;
   width: 100%;
@@ -40,14 +46,6 @@ export const Content = styled.div`
 
   @media (max-width: 576px) {
     grid-template-columns: repeat(1, 1fr);
-  }
-  a {
-    color: black;
-    text-decoration: none;
-    img {
-      width: 16rem;
-      height: 6rem;
-    }
   }
 `;
 export const Paginate = styled.div`
