@@ -50,7 +50,6 @@ export const Content = styled.div`
     }
   }
 `;
-
 export const Paginate = styled.div`
   width: 100%;
   display: flex;
